@@ -1,0 +1,25 @@
+{
+  "name": "ng-calendar",
+  "version": "0.0.0",
+  "authors": [
+    "Erik Donohoo <erikdonohoo@gmail.com>"
+  ],
+  "description": "calendar and datepicker for angular homemade from scratch",
+  "main": "dist/ng-calendar.js",
+  "keywords": [
+    "angular",
+    "calendar",
+    "datepicker",
+    "directive",
+    "picker"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/erikdonohoo/ng-calendar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "libs",
+    "test",
+    "tests"
+  ]
+}
